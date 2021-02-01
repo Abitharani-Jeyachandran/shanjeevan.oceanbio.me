@@ -244,7 +244,7 @@ project Underwater Glider and DreamSpace Academy.
 
           <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
             <div class="client-logo">
-              <a href="https://trashfortrade.com/pages/1-0-index.php" target="_blank"><img src="../assets\img\clients\trash-for-trade.png" class="img-fluid" alt=""></a>
+              <a href="https://trashfortrade.com/pages/1-0-index.php" target="_blank"><img src="../assets\img\clients\shanjeevan-trash-for-trade.png" class="img-fluid" alt=""></a>
             </div>
           </div>
 
