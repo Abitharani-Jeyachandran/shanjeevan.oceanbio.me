@@ -298,7 +298,7 @@ project Underwater Glider and DreamSpace Academy.
 
 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
   <div class="client-logo">
-    <a href="https://www.nationalgeographic.com/" target="_blank"><img src="../assets\img\clients\shanjeevan-national-geography.svg" class="img-fluid" alt=""></a>
+    <a href="https://www.nationalgeographic.com/" target="_blank"><img src="../assets\img\clients\shanjeevan-national-geography.svg" class="img-fluid" height="500px" width="500px" alt=""></a>
   </div>
 </div>
 
