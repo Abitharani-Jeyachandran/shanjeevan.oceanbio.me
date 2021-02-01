@@ -10,7 +10,7 @@
 
   <div class="row event-item">
     <div class="col-lg-4 col-md-6">
-      <img src="../../assets/img/event-birthday.jpg" class="img-fluid" alt="">
+      <img src="../assets\img\features\start-next.jpg" class="img-fluid" alt="">
     </div>
     <div class="col-lg-8 col-md-6">
       <h3>Parliament Speech</h3>
@@ -23,7 +23,7 @@ and his community innovation project Underwater Glider, in Sinhalese and English
 
   <div class="row event-item">
     <div class="col-lg-4 col-md-6">
-      <img src="../assets/img/event-birthday.jpg" class="img-fluid" alt="">
+      <img src="../assets\img\features\underwater-glider.jpg" class="img-fluid" alt="">
     </div>
     <div class="col-lg-8 col-md-6">
       <h3>Underwater Glider</h3>

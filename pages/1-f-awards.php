@@ -4,7 +4,7 @@
   <div class="container">
     <div class="section-title" data-aos="fade-up">
       <h2>Awards</h2>
-      <div class="strip text-center"><img src="assets\img\awards.png" alt=" "/></div>
+      <div class="strip text-center"><img src="../assets\img\awards.png" alt=" "/></div>
     </div>
 
     <div class="row">
