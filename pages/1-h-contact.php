@@ -4,7 +4,7 @@
 
     <div class="section-title" data-aos="fade-up">
       <h2>Contact Me</h2>
-      <div class="strip text-center"><img src="../assets\img\contact.png" alt=" "/></div>
+      <div class="strip text-center"><img src="assets\img\contact.png" alt=" "/></div>
     </div>
 
     <div class="row" data-aos="fade-up">
@@ -12,38 +12,44 @@
       <div class="col-lg-6">
 
         <div class="row">
-          <div class="col-md-12">
+          <div class="col-md-6">
             <div class="info-box">
-              <i class="bx bx-share-alt"></i>
+              <i class="icofont icofont-share"></i>
               <h3>Social Profiles</h3>
               <div class="social-links">
                 <a href="https://www.linkedin.com/in/shanjeevan-amalanathan/" class="linkedin"><i class="icofont-linkedin"></i></a>
-                <a href="https://github.com/shanjeevan-amalanathan" class="twitter"><i class="icofont-twitter"></i></a>
+                <a href="https://github.com/shanjeevan-amalanathan" class="github"><i class="icofont-github"></i></a>
                 <a href="https://www.facebook.com/profile.php?id=100009597545676" class="facebook"><i class="icofont-facebook"></i></a>
                 <a href="https://www.instagram.com/shanjeevan_/" class="instagram"><i class="icofont-instagram"></i></a>
-                <a href="https://twitter.com/ShanjeevSh" class="twitter"><i class="icofont-twitter"></i></a>
-              </div>
+                <a href="https://twitter.com/ShanjeevSh" class="twitter"><i class="icofont-twitter"></i></a></div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="address info-box">
+              <i class="icofont icofont-location-pin"></i>
+              <h3>Address</h3>
+              <p>372/2, Government quarters road, Kallady, Batticaloa, 30000, Srilanka.</p>
             </div>
           </div>
           <div class="col-md-6">
             <div class="info-box mt-4">
-              <i class="bx bx-envelope"></i>
+              <i class="icofont icofont-envelope"></i>
               <h3>Email Me</h3>
               <p>shanjeevan@oceanbio.me</p>
             </div>
           </div>
           <div class="col-md-6">
             <div class="info-box mt-4">
-              <i class="bx bx-phone-call"></i>
+              <i class="icofont icofont-phone"></i>
               <h3>Call Me</h3>
-              <p>0754949559</p>
+              <p>+97 75 494 9559</p>
             </div>
           </div>
         </div>
 
       </div>
 
-      <div class="col-lg-6 pt-6">
+      <div class="form col-lg-6">
         <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfoEhsEXwjtbtbMLBDi4_UXK3yM6m0p7zMbp4ZyF4KClvYlwg/formResponse" method="post" role="form" class="php-email-form">
           <div class="form-row">
             <div class="col-md-6 form-group">

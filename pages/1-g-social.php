@@ -3,7 +3,7 @@
   <div class="container">
     <div class="section-title" data-aos="fade-up">
       <h2>Social</h2>
-      <div class="strip text-center"><img src="../assets\img\about.png" alt=" "/></div>
+      <div class="strip text-center"><img src="../assets\img\social.png" alt=" "/></div>
     </div>
 
     <div class="row">
@@ -283,6 +283,24 @@ project Underwater Glider and DreamSpace Academy.
               <a href="https://dreamspace.academy/pages/1-0-index.php" target="_blank"><img src="../assets\img\clients\dream-space.png" class="img-fluid" alt=""></a>
             </div>
           </div>
+
+          <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+  <div class="community-logo">
+    <a href="https://oceanbio.me/pages/ocean-biome.php" target="_blank"><img src="../assets\img\community\shanjeevan-ocean-biome.png" class="img-fluid" alt=""></a>
+  </div>
+</div>
+
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+  <div class="community-logo">
+    <a href="https://youthforloveandlife.org/index.php" target="_blank"><img src="../assets\img\community\shanjeevan-YLL.png" class="img-fluid" alt=""></a>
+  </div>
+</div>
+
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+  <div class="community-logo">
+    <a href="https://www.nationalgeographic.com/" target="_blank"><img src="../assets\img\community\shanjeevan-national-geography.svg" class="img-fluid" alt=""></a>
+  </div>
+</div>
 
         </div>
 
