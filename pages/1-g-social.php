@@ -286,19 +286,19 @@ project Underwater Glider and DreamSpace Academy.
 
           <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
   <div class="community-logo">
-    <a href="https://oceanbio.me/pages/ocean-biome.php" target="_blank"><img src="../assets\img\community\shanjeevan-ocean-biome.png" class="img-fluid" alt=""></a>
+    <a href="https://oceanbio.me/pages/ocean-biome.php" target="_blank"><img src="../assets\img\clients\shanjeevan-ocean-biome.png" class="img-fluid" alt=""></a>
   </div>
 </div>
 
 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
   <div class="community-logo">
-    <a href="https://youthforloveandlife.org/index.php" target="_blank"><img src="../assets\img\community\shanjeevan-YLL.png" class="img-fluid" alt=""></a>
+    <a href="https://youthforloveandlife.org/index.php" target="_blank"><img src="../assets\img\clients\shanjeevan-YLL.png" class="img-fluid" alt=""></a>
   </div>
 </div>
 
 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
   <div class="community-logo">
-    <a href="https://www.nationalgeographic.com/" target="_blank"><img src="../assets\img\community\shanjeevan-national-geography.svg" class="img-fluid" alt=""></a>
+    <a href="https://www.nationalgeographic.com/" target="_blank"><img src="../assets\img\clients\shanjeevan-national-geography.svg" class="img-fluid" alt=""></a>
   </div>
 </div>
 
