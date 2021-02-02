@@ -50,7 +50,7 @@
       </div>
 
       <div class="form col-lg-6">
-        <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfoEhsEXwjtbtbMLBDi4_UXK3yM6m0p7zMbp4ZyF4KClvYlwg/formResponse" method="post" role="form" class="php-email-form">
+        <form method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfoEhsEXwjtbtbMLBDi4_UXK3yM6m0p7zMbp4ZyF4KClvYlwg/formResponse" onsubmit="return window.submitGoogleForm(this);">
           <div class="form-row">
             <div class="col-md-6 form-group">
               <input type="text" name="entry.1501073142" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required/>
