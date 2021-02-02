@@ -50,19 +50,19 @@
       </div>
 
       <div class="form col-lg-6">
-        <form method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfoEhsEXwjtbtbMLBDi4_UXK3yM6m0p7zMbp4ZyF4KClvYlwg/formResponse" onsubmit="return window.submitGoogleForm(this);">
+        <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfoEhsEXwjtbtbMLBDi4_UXK3yM6m0p7zMbp4ZyF4KClvYlwg/formResponse" method="POST" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
           <div class="form-row">
             <div class="col-md-6 form-group">
-              <input type="text" name="entry.1501073142" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required/>
+              <input type="text" name="entry.1501073142" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" required/>
               <div class="validate"></div>
             </div>
             <div class="col-md-6 form-group">
-              <input type="email" class="form-control" name="entry.888887545" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" required/>
+              <input type="email" class="form-control" name="entry.888887545" id="email" placeholder="Your Email" data-rule="email" required/>
               <div class="validate"></div>
             </div>
           </div>
           <div class="form-group">
-            <input type="text" class="form-control" name="entry.1990320180" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" required/>
+            <input type="text" class="form-control" name="entry.1990320180" id="subject" placeholder="Subject" data-rule="minlen:4" required/>
             <div class="validate"></div>
           </div>
           <div class="form-group">
