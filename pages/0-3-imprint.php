@@ -20,7 +20,7 @@
     <p class="col-xl-4 mx-auto" data-aos="fade-up"><b>Email:</b> info@oceanbio.me</p>
 </br>
     <p class="col-xl-8 mx-auto" data-aos="fade-up"><b>Contact Info:</b> +94 75 494 9559 | +94 77 180 1841</p>
-
+</br></br></br>
 
   </div>
 </section>
