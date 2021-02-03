@@ -6,7 +6,7 @@
     </div>
     <div class="credits">
       Co-created by <a target="_blank" href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199/">Abitharani.J</a> & <a target="_blank" href="https://www.linkedin.com/in/shanjeevan-amalanathan">Shanjeevan.A</a></br>
-      <a href="">Imprint</a>
+      <a href="0-3-imprint.php">Imprint</a>
     </div>
   </div>
 </footer><!-- End Footer -->
