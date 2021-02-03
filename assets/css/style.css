@@ -1047,3 +1047,7 @@ section {
 #imprint{
   padding-top: 100px;
 }
+
+#imprint p{
+  text-align:center;
+}
