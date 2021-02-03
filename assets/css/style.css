@@ -743,6 +743,11 @@ section {
 
 #footer .credits {
   font-size: 13px;
+  color: #FFF;
+}
+
+#footer .credits a:hover{
+  color: #65B5C7;
 }
 
 /*======= Resume Section =======*/
