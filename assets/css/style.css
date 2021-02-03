@@ -699,7 +699,7 @@ section {
   font-size: 14px;
   font-weight: 500px;
   text-align: center;
-  padding: 40px 0;
+  padding: 20px 0;
   position: relative;
 }
 
@@ -716,7 +716,7 @@ section {
 }
 
 #footer .credits {
-  font-size: 17px;
+  font-size: 14px;
 }
 
 #footer .credits a {
@@ -1041,4 +1041,9 @@ section {
   .community-title{
     display: inline-block;
   }
+}
+
+/*------------Imprint-----------*/
+#imprint{
+  padding-top: 100px;
 }
