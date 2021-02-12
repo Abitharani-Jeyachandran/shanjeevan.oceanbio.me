@@ -42,7 +42,7 @@
             <div class="info-box mt-4">
               <i class="icofont icofont-phone"></i>
               <h3>Call Me</h3>
-              <p>+97 75 494 9559</p>
+              <p>+94 75 494 9559</p>
             </div>
           </div>
         </div>
