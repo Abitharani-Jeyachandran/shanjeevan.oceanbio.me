@@ -3,7 +3,7 @@
 <div class="container">
 <div class="section-title" data-aos="fade-up">
   <h2>Experience</h2>
-  <div class="strip text-center"><img src="../assets\img\experience.png" alt=" "/></div>
+  <div class="strip text-center"><img src="../assets/img/experience.png" alt=" "/></div>
 </div>
 <div class="row">
   <div class="col-md-12 col-md-offset-0">

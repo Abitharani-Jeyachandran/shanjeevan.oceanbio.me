@@ -2,7 +2,6 @@
 <div class="template-content">
 <?php include('1-a-slider.php'); ?>
 <?php include('1-b-about-me.php'); ?>
-<?php include('1-c-featured.php'); ?>
 <?php include('1-d-experience.php'); ?>
 <?php include('1-e-education.php'); ?>
 <?php include('1-f-awards.php'); ?>

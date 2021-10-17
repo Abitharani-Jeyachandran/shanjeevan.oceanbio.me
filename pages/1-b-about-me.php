@@ -4,14 +4,14 @@
 
     <div class="section-title" data-aos="fade-up">
       <h2>About Me</h2>
-      <div class="strip text-center"><img src="../assets\img\about.png" alt=" "/></div>
+      <div class="strip text-center"><img src="../assets/img/about.png" alt=" "/></div>
     </div>
 
     <div class="row">
 
       <div class="col-xl-4 col-lg-4 col-md-4">
         <div class="about-img" data-aos="fade-up" data-aos-delay="100">
-          <img src="../assets\img\shanjeevan-adventure-traveler.jpg" alt="">
+          <img src="../assets/img/shanjeevan.jpg" alt="">
         </div>
       </div>
 
@@ -38,7 +38,7 @@ each beyond his comfort zone and he views the world through the lens of other cu
       <div class="col-lg-4 col-md-4 col-sm-12 d-flex align-items-stretch">
         <div class="card">
           <div class="card-img">
-            <img src="../assets\img\community-innovator (1).jpg" alt="...">
+            <img src="../assets/img/community-innovator (1).jpg" alt="...">
           </div>
           <div class="card-body">
             <h3 class="card-title"><a href="">Community Innovator</a></h5>
@@ -48,7 +48,7 @@ each beyond his comfort zone and he views the world through the lens of other cu
       <div class="col-lg-4 col-md-4 col-sm-12 d-flex align-items-stretch">
         <div class="card">
           <div class="card-img">
-            <img src="../assets\img\underwater-glider (1).jpg" alt="...">
+            <img src="../assets/img/underwater-glider (1).jpg" alt="...">
           </div>
           <div class="card-body">
             <h3 class="card-title"><a href="">Marine Conservation Activist</a></h5>
@@ -58,7 +58,7 @@ each beyond his comfort zone and he views the world through the lens of other cu
       <div class="col-lg-4 col-md-4 col-sm-12 d-flex align-items-stretch">
         <div class="card">
           <div class="card-img">
-            <img src="../assets\img\adventure-traveler.jpg" alt="...">
+            <img src="../assets/img/adventure-traveler.jpg" alt="...">
           </div>
           <div class="card-body">
             <h3 class="card-title"><a href="">Adventure traveller</a></h5>
