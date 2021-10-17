@@ -8,33 +8,22 @@
   <!-- Primary Meta Tags -->
   <title>Shanjeevan Amalanathan</title>
   <meta name="title" content="Shanjeevan Amalanathan">
-  <meta name="description" content="If Shanjeevan had his choice, he would have gills instead of lungs. He spends as much time as he can scuba diving and blowing bubbles. When he’s a land lover you can find Shanjeevan working on a range of innovative projects that aim to engage, entertain, and educate people about the ocean.
-
-  His goal is to make a lasting contribution to society through innovation and make a difference in his community. He solves environmental problems through an interdisciplinary approach and fosters leadership values, skills and abilities by engaging in collective, solution-oriented projects.
-
-  He is a passionate adventure traveller. Adventure travelling is one of the greatest gifts that fuel his soul. He creates adventures, experiences and missions to challenge himself and reach beyond his comfort zone and he views the world through the lens of other cultures. each beyond his comfort zone and he views the world through the lens of other cultures.">
+  <meta name="description" content="If Shanjeevan had his choice, he would have gills instead of lungs. He spends as much time as he can scuba diving and blowing bubbles. When he’s a land lover you can find Shanjeevan working on a range of innovative projects that aim to engage, entertain, and educate people about the ocean. His goal is to make a lasting contribution to society through innovation and make a difference in his community. He solves environmental problems through an interdisciplinary approach and fosters leadership values, skills and abilities by engaging in collective, solution-oriented projects. He is a passionate adventure traveller. Adventure travelling is one of the greatest gifts that fuel his soul. He creates adventures, experiences and missions to challenge himself and reach beyond his comfort zone and he views the world through the lens of other cultures. each beyond his comfort zone and he views the world through the lens of other cultures.">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://metatags.io/">
+  <meta property="og:url" content="https://shanjeevan.oceanbio.me/pages/1-0-index.php">
   <meta property="og:title" content="Shanjeevan Amalanathan">
-  <meta property="og:description" content="If Shanjeevan had his choice, he would have gills instead of lungs. He spends as much time as he can scuba diving and blowing bubbles. When he’s a land lover you can find Shanjeevan working on a range of innovative projects that aim to engage, entertain, and educate people about the ocean.
-
-  His goal is to make a lasting contribution to society through innovation and make a difference in his community. He solves environmental problems through an interdisciplinary approach and fosters leadership values, skills and abilities by engaging in collective, solution-oriented projects.
-
-  He is a passionate adventure traveller. Adventure travelling is one of the greatest gifts that fuel his soul. He creates adventures, experiences and missions to challenge himself and reach beyond his comfort zone and he views the world through the lens of other cultures. each beyond his comfort zone and he views the world through the lens of other cultures.">
-  <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+  <meta property="og:description" content="If Shanjeevan had his choice, he would have gills instead of lungs. He spends as much time as he can scuba diving and blowing bubbles. When he’s a land lover you can find Shanjeevan working on a range of innovative projects that aim to engage, entertain, and educate people about the ocean. His goal is to make a lasting contribution to society through innovation and make a difference in his community. He solves environmental problems through an interdisciplinary approach and fosters leadership values, skills and abilities by engaging in collective, solution-oriented projects. He is a passionate adventure traveller. Adventure travelling is one of the greatest gifts that fuel his soul. He creates adventures, experiences and missions to challenge himself and reach beyond his comfort zone and he views the world through the lens of other cultures. each beyond his comfort zone and he views the world through the lens of other cultures.">
+  <meta property="og:image" content="">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://metatags.io/">
+  <meta property="twitter:url" content="https://shanjeevan.oceanbio.me/pages/1-0-index.php">
   <meta property="twitter:title" content="Shanjeevan Amalanathan">
-  <meta property="twitter:description" content="If Shanjeevan had his choice, he would have gills instead of lungs. He spends as much time as he can scuba diving and blowing bubbles. When he’s a land lover you can find Shanjeevan working on a range of innovative projects that aim to engage, entertain, and educate people about the ocean.
+  <meta property="twitter:description" content="If Shanjeevan had his choice, he would have gills instead of lungs. He spends as much time as he can scuba diving and blowing bubbles. When he’s a land lover you can find Shanjeevan working on a range of innovative projects that aim to engage, entertain, and educate people about the ocean. His goal is to make a lasting contribution to society through innovation and make a difference in his community. He solves environmental problems through an interdisciplinary approach and fosters leadership values, skills and abilities by engaging in collective, solution-oriented projects. He is a passionate adventure traveller. Adventure travelling is one of the greatest gifts that fuel his soul. He creates adventures, experiences and missions to challenge himself and reach beyond his comfort zone and he views the world through the lens of other cultures. each beyond his comfort zone and he views the world through the lens of other cultures.">
+  <meta property="twitter:image" content="">
 
-  His goal is to make a lasting contribution to society through innovation and make a difference in his community. He solves environmental problems through an interdisciplinary approach and fosters leadership values, skills and abilities by engaging in collective, solution-oriented projects.
-
-  He is a passionate adventure traveller. Adventure travelling is one of the greatest gifts that fuel his soul. He creates adventures, experiences and missions to challenge himself and reach beyond his comfort zone and he views the world through the lens of other cultures. each beyond his comfort zone and he views the world through the lens of other cultures.">
-  <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="../assets\img\favicon\apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="../assets\img\favicon\favicon-32x32.png">

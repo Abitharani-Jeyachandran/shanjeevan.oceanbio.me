@@ -23,7 +23,7 @@
     var res = confirm("Thank you for your message. \n\nKind regards, \nShanjeevan Amalanathan");
     if (res == true)
     {
-      window.location.replace("shanjeevan@oceanbio.me");
+      window.location.replace("https://shanjeevan.oceanbio.me/pages/1-0-index.php");
     }
 
     return false;

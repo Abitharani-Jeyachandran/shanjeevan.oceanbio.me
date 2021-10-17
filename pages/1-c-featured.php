@@ -3,14 +3,14 @@
 <div class="container">
 <div class="section-title" data-aos="fade-up">
   <h2>Featured</h2>
-  <div class="strip text-center"><img src="../assets\img\about.png" alt=" "/></div>
+  <div class="strip text-center"><img src="../assets\img\feature.png" alt=" "/></div>
 </div>
 
 <div class="owl-carousel feature-carousel" data-aos="fade-up" data-aos-delay="100">
 
   <div class="row event-item">
     <div class="col-lg-4 col-md-6">
-      <img src="../../assets/img/event-birthday.jpg" class="img-fluid" alt="">
+      <img src="../assets\img\features\shanakiyan-speech.png" class="img-fluid" alt="">
     </div>
     <div class="col-lg-8 col-md-6">
       <h3>Parliament Speech</h3>
@@ -23,7 +23,7 @@ and his community innovation project Underwater Glider, in Sinhalese and English
 
   <div class="row event-item">
     <div class="col-lg-4 col-md-6">
-      <img src="../assets/img/event-birthday.jpg" class="img-fluid" alt="">
+      <img src="../assets\img\features\underwater-glider.jpg" class="img-fluid" alt="">
     </div>
     <div class="col-lg-8 col-md-6">
       <h3>Underwater Glider</h3>
@@ -38,7 +38,7 @@ economy of Sri Lanka.
 
   <div class="row event-item">
     <div class="col-lg-4 col-md-6">
-      <img src="../assets/img/event-birthday.jpg" class="img-fluid" alt="">
+      <img src="../assets\img\features\start-next.jpg" class="img-fluid" alt="">
     </div>
     <div class="col-lg-8 col-md-6">
       <h3>Keynote speech</h3>

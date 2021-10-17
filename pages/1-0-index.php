@@ -6,6 +6,7 @@
 <?php include('1-d-experience.php'); ?>
 <?php include('1-e-education.php'); ?>
 <?php include('1-f-awards.php'); ?>
-<?php include('1-g-contact.php'); ?>
+<?php include('1-g-social.php'); ?>
+<?php include('1-h-contact.php'); ?>
 </div>
 <?php include('2-0-footer.php'); ?>

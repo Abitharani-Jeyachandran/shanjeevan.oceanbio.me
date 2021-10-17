@@ -1,12 +1,12 @@
 <!-- ======= Footer ======= -->
 <footer id="footer">
-
-  <div class="container footer-bottom clearfix">
+  <div class="container">
     <div class="copyright">
-      &copy; Copyright <strong><span></span></strong>. All Rights Reserved
+      &copy; <?php echo date('Y'); ?> Copyright <strong><a target="_blank" href="https://shanjeevan.oceanbio.me/pages/1-0-index.php"><span>shanjeevan.oceanbio.me</span></a></strong>. All Rights Reserved.
+    </div>
+    <div class="credits">
+      Co-created by <a target="_blank" href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199/">Abitharani.J</a> & <a target="_blank" href="https://www.linkedin.com/in/shanjeevan-amalanathan">Shanjeevan.A</a></br>
+      <a href="0-3-imprint.php">Imprint</a>
     </div>
   </div>
 </footer><!-- End Footer -->
-
-<a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
-<div id="preloader"></div>

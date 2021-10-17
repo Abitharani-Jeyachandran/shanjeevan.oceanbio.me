@@ -10,7 +10,7 @@
 <script src="../assets/vendor/venobox/venobox.min.js"></script>
 <script src="../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
 <script src="../assets/vendor/aos/aos.js"></script>
-<script src="assets\js\google-form.js"></script>
+<script src="../assets\js\google-form.js"></script>
 
 <!-- Template Main JS File -->
 <script src="../assets/js/main.js"></script>
