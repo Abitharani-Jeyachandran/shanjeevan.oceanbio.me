@@ -1,10 +1,14 @@
+  <body onload="initialize()">
+    <div id="contact"></div>
+  </body>
+
 <!-- ======= Contact Me Section ======= -->
 <section id="contact" class="contact">
   <div class="container">
 
     <div class="section-title" data-aos="fade-up">
       <h2>Contact Me</h2>
-      <div class="strip text-center"><img src="../assets\img\contact.png" alt=" "/></div>
+      <div class="strip text-center"><img src="../assets/img/contact.png" alt=" "/></div>
     </div>
 
     <div class="row" data-aos="fade-up">
