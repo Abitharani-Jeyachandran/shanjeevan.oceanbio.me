@@ -1,3 +1,7 @@
+  <body onload="initialize()">
+    <div id="contact"></div>
+  </body>
+
 <!-- ======= Contact Me Section ======= -->
 <section id="contact" class="contact">
   <div class="container">

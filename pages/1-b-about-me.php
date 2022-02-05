@@ -11,7 +11,7 @@
 
       <div class="col-xl-4 col-lg-4 col-md-4">
         <div class="about-img" data-aos="fade-up" data-aos-delay="100">
-          <img src="../assets/img/shanjeevan.jpg" alt="">
+          <img src="../assets/img/shanjeevan-adventure-traveler.jpg" alt="">
         </div>
       </div>
 

@@ -14,6 +14,16 @@
 
 <!-- Template Main JS File -->
 <script src="../assets/js/main.js"></script>
+<script src="http://www.webglearth.com/v2/api.js"></script>
+<script>
+  function initialize() {
+    var earth = new WE.map('contact');
+    WE.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(earth);
+
+    var marker = WE.marker([43.355, 42.439167]).addTo(earth);
+    marker.bindPopup("<b>Mt.Elbrus</b>", {maxWidth: 150, closeButton: false}).openPopup();
+  }
+</script>
 
 </body>
 
