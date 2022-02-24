@@ -14,7 +14,6 @@
           <img src="../assets/img/shanjeevan-adventure-traveler.jpg" alt="">
         </div>
       </div>
-
       <div class="col-xl-8 col-lg-8 col-md-8">
         <div class="about-content" data-aos="fade-up" data-aos-delay="100">
           <p class="para1">If Shanjeevan had his choice, he would have gills instead of lungs. He spends as much time as
